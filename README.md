@@ -68,3 +68,9 @@
 3. 切换到static文件夹下，执行 csv2json.py 创建 json 数据以便于前端显示
 
 4. 再依次执行部署步骤中的3-4步即可
+
+## 参考
+
+本项目主要参考了此仓库的实现思路
+
+https://github.com/chizhu/KGQA_HLM   
